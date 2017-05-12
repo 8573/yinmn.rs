@@ -1,0 +1,6 @@
+/Cargo.lock
+/README.html
+/target
+
+*.bk
+.*.swp

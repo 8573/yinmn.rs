@@ -1,0 +1,6 @@
+[package]
+name = "yinmn"
+version = "0.1.0"
+authors = ["c74d <8573dd@gmail.com>"]
+
+[dependencies]

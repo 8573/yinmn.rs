@@ -1,0 +1,17 @@
+= `yinmn`, a mathematics library
+
+
+== Name
+
+I had wanted to give this library a name related to the color blue, but
+without arrogating the name of a well-known shade of blue that someone else
+might want, such as "azure", "cyan", or "ultramarine", or linking the library
+to a toxic pigment. While browsing Wikipedia, I found the pigment "YInMn
+blue",footnoteref:[yinmn-blue-wikipedia-article,link:https://en.wikipedia.org/wiki/YInMn_Blue[Wikipedia
+article on YInMn
+blue]]footnoteref:[yinmn-blue-press-release,link:https://oregonstate.edu/ua/ncs/archives/2015/may/licensing-agreement-reached-brilliant-new-blue-pigment-discovered-happy-accident[Oregon
+State University press release about YInMn
+blue]]footnoteref:[yinmn-blue-npr-article,link:http://www.npr.org/2016/07/16/485696248/a-chemist-accidentally-creates-a-new-blue-then-what[National
+Public Radio article on YInMn blue]] a new blue pigment with a workably
+unattractive name and an apparent lack of toxicity. The name may be taken as a
+bacronym for "##y##oung, ##in##efficient ##m##athematics/##n##umbers library".
