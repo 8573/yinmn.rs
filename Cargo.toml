@@ -1,6 +1,12 @@
 [package]
 name = "yinmn"
-version = "0.1.0"
+version = "0.0.0"
 authors = ["c74d <8573dd@gmail.com>"]
+description = "Young, INefficient Mathematics/Numbers library"
+homepage = "https://gitlab.com/c74d/yinmn.rs"
+repository = "https://gitlab.com/c74d/yinmn.rs"
+documentation = "https://docs.rs/yinmn"
+readme = "README.adoc"
+license = "Apache-2.0"
 
 [dependencies]
